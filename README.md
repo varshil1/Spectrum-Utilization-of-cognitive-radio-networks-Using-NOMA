@@ -40,4 +40,4 @@ techniques are of crucial importance which are provided by CRNs with NOMA.
 
 ## Detailed report
 For detailed description of Perfromance analysis, system model explaination and results refer this report :-
-<>
+<https://github.com/varshil1/Spectrum-Utilization-of-cognitive-radio-networks-Using-NOMA/blob/master/NOMA_S16_Final_Report.pdf>
